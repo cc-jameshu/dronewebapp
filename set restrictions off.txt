@@ -1,0 +1,4 @@
+in admin:
+Set-ExecutionPolicy Unrestricted
+
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/skeleton_website#Running_the_skeleton_website
